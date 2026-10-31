@@ -1,0 +1,16 @@
+[
+  {
+    "id": "usr_1792271974737",
+    "name": "John mel estrada",
+    "email": "johnmel0503@gmail.com",
+    "passwordHash": "a033ca230f62d5eb6238a1590d790f7f:895159a846073aa968c552d50bd7a6bae99676f687e94479b674710fe0352a76857f3d720f0497fc4838eea085838f6b520edb6c621874210c8ccdbcb6793376",
+    "createdAt": "2026-10-17T21:19:34.825Z"
+  },
+  {
+    "id": "usr_1792989512240",
+    "name": "Kups",
+    "email": "nacht@gmail.com",
+    "passwordHash": "77a66f5dd6da00da5a56fd431a2986cf:53b82eab7d9822dea2cc6f55373c1f2fdbd142069dd7eeec13e22d74f69d10f719232beef166627c90382389d6e4e8c44114ea897dcb4c60ff120f3f73484d3f",
+    "createdAt": "2026-10-26T04:38:32.365Z"
+  }
+]

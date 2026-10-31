@@ -1,0 +1,218 @@
+[
+  {
+    "id": "txn_8607998b-c08a-457b-bdcd-7976139b4a9c",
+    "userId": "usr_1792133001598",
+    "type": "income",
+    "amount": 5000,
+    "source": "Business Income",
+    "date": "2026-10-07",
+    "createdAt": "2026-10-16T06:45:58.858Z"
+  },
+  {
+    "id": "txn_39257fec-c365-43bb-a6b8-250442250e37",
+    "userId": "usr_1792133001598",
+    "type": "expense",
+    "amount": 2000,
+    "category": "electric bills",
+    "date": "2026-10-30",
+    "createdAt": "2026-10-16T06:46:31.846Z"
+  },
+  {
+    "id": "txn_12e22518-3298-4fb1-b033-03aa056fd093",
+    "userId": "usr_1792133001598",
+    "type": "expense",
+    "amount": 1400,
+    "category": "water bills",
+    "date": "2026-10-29",
+    "createdAt": "2026-10-16T06:47:23.958Z"
+  },
+  {
+    "id": "txn_b68651db-74ef-40ac-934d-a32e72ec7251",
+    "userId": "usr_1792133001598",
+    "type": "expense",
+    "amount": 120,
+    "category": "foodss",
+    "date": "2026-10-01",
+    "createdAt": "2026-10-16T06:48:06.780Z"
+  },
+  {
+    "id": "txn_cb821f7e-ce7d-4342-bc4e-812b22a5aaf6",
+    "userId": "usr_1792133001598",
+    "type": "expense",
+    "amount": 1000,
+    "category": "foods",
+    "date": "2026-10-16",
+    "createdAt": "2026-10-16T06:52:11.033Z"
+  },
+  {
+    "id": "txn_898d4ebd-8cdb-49ef-bc92-f647de7ccc3a",
+    "userId": "usr_1791960046437",
+    "type": "income",
+    "amount": 5000,
+    "source": "Bonus",
+    "date": "2026-12-25",
+    "createdAt": "2026-10-16T06:54:33.272Z"
+  },
+  {
+    "id": "txn_a021d214-e003-4e20-ad85-ef4bbdc5a06b",
+    "userId": "usr_1791960046437",
+    "type": "expense",
+    "amount": 1000,
+    "category": "electric bills",
+    "date": "2026-10-01",
+    "createdAt": "2026-10-16T06:55:04.048Z"
+  },
+  {
+    "id": "txn_ca51c6e5-1b43-4606-a921-7140977fbccb",
+    "userId": "usr_1791960046437",
+    "type": "expense",
+    "amount": 3560,
+    "category": "transpo",
+    "date": "2026-10-16",
+    "createdAt": "2026-10-16T06:56:11.945Z"
+  },
+  {
+    "id": "txn_3aa70f07-3bea-44a4-abbc-143d0f8741dd",
+    "userId": "usr_1791960046437",
+    "type": "income",
+    "amount": 2000,
+    "source": "Bonus",
+    "date": "2026-10-16",
+    "createdAt": "2026-10-16T06:56:45.280Z"
+  },
+  {
+    "id": "txn_454318fa-54eb-4d61-bc6a-350c5396f9e9",
+    "userId": "usr_1791960046437",
+    "type": "income",
+    "amount": 1000,
+    "source": "Salary",
+    "date": "2026-10-16",
+    "createdAt": "2026-10-16T09:06:40.625Z"
+  },
+  {
+    "id": "txn_494d3fdf-5555-44be-8923-38c8942539e3",
+    "userId": "usr_1791960046437",
+    "type": "expense",
+    "amount": 500,
+    "category": "Food",
+    "date": "2026-10-16",
+    "createdAt": "2026-10-16T09:07:11.640Z"
+  },
+  {
+    "id": "txn_b0fd1091-a44a-4c29-a2a8-84084a818d79",
+    "userId": "usr_1792203693412",
+    "type": "income",
+    "amount": 5000,
+    "source": "Salary",
+    "date": "2026-10-17",
+    "createdAt": "2026-10-17T02:31:08.272Z"
+  },
+  {
+    "id": "txn_8c64b701-1f4b-4f4b-8814-ac0bc41fe68b",
+    "userId": "usr_1792203693412",
+    "type": "expense",
+    "amount": 500,
+    "category": "Shopping",
+    "date": "2026-10-17",
+    "createdAt": "2026-10-17T02:33:26.321Z"
+  },
+  {
+    "id": "txn_0861ece8-53e3-42da-ab68-855b5f051232",
+    "userId": "usr_1792206973727",
+    "type": "income",
+    "amount": 1200,
+    "source": "Salary",
+    "date": "2026-10-17",
+    "createdAt": "2026-10-17T03:17:33.714Z"
+  },
+  {
+    "id": "txn_09e14b25-4ebf-4160-89c6-a7321563d871",
+    "userId": "usr_1792206973727",
+    "type": "expense",
+    "amount": 500,
+    "category": "Food",
+    "date": "2026-10-17",
+    "createdAt": "2026-10-17T03:18:02.048Z"
+  },
+  {
+    "id": "txn_0243753f-642d-4e75-bfb5-fe07b9a4d592",
+    "userId": "usr_1792271974737",
+    "type": "income",
+    "amount": 10000,
+    "source": "Salary",
+    "date": "2026-10-18",
+    "createdAt": "2026-10-17T21:20:41.347Z"
+  },
+  {
+    "id": "txn_177cacf9-814d-4512-9f5a-06e6b1e118d4",
+    "userId": "usr_1792271974737",
+    "type": "expense",
+    "amount": 2222,
+    "category": "Transportation",
+    "date": "2026-10-18",
+    "createdAt": "2026-10-17T21:21:03.625Z"
+  },
+  {
+    "id": "txn_d460e37f-7c86-47c4-860c-96e3bad473e8",
+    "userId": "usr_1792271974737",
+    "type": "expense",
+    "amount": 1111,
+    "category": "Bills",
+    "date": "2026-10-22",
+    "createdAt": "2026-10-17T21:22:26.537Z"
+  },
+  {
+    "id": "txn_7237923e-b75c-4d09-83dd-6d91f33ee8de",
+    "userId": "usr_1792271974737",
+    "type": "expense",
+    "amount": 3000,
+    "category": "School expenses",
+    "date": "2026-10-18",
+    "createdAt": "2026-10-18T15:07:40.687Z"
+  },
+  {
+    "id": "txn_78c4fcbb-9aa6-4e3a-a90f-29d987707002",
+    "userId": "usr_1792271974737",
+    "type": "income",
+    "amount": 1000000000000,
+    "source": "Salary",
+    "date": "2026-10-21",
+    "createdAt": "2026-10-21T13:39:13.256Z"
+  },
+  {
+    "id": "txn_12bdf487-9024-4c4d-b619-4801a1af87f4",
+    "userId": "usr_1792989512240",
+    "type": "income",
+    "amount": 200000,
+    "source": "Business Income",
+    "date": "2026-10-26",
+    "createdAt": "2026-10-26T15:59:32.652Z"
+  },
+  {
+    "id": "txn_a8a3783f-54e3-4d6f-8973-9e60f7a75fd1",
+    "userId": "usr_1792989512240",
+    "type": "income",
+    "amount": 150000,
+    "source": "Business Income",
+    "date": "2026-10-20",
+    "createdAt": "2026-10-26T16:00:18.908Z"
+  },
+  {
+    "id": "txn_011e22a6-c87b-406e-9baa-e2435e40d849",
+    "userId": "usr_1792989512240",
+    "type": "income",
+    "amount": 100000,
+    "source": "Business Income",
+    "date": "2026-10-20",
+    "createdAt": "2026-10-26T16:00:46.153Z"
+  },
+  {
+    "id": "txn_5b8a7fd5-0317-46c4-8df1-1eb51917f1df",
+    "userId": "usr_1792989512240",
+    "type": "income",
+    "amount": 80000,
+    "source": "Salary",
+    "date": "2026-10-13",
+    "createdAt": "2026-10-26T16:01:25.600Z"
+  }
+]
